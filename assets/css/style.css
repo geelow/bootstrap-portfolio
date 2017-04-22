@@ -170,7 +170,7 @@ html {
 }
 
 #portfolio-area {
-  width: 85%;
+  width: 95%;
   padding: 45px 10px 25px 31px;
   margin-top: 30px;
   margin-bottom: 200px;
@@ -182,9 +182,11 @@ html {
 }
 
 .port-imgs {
-  width: 233px;
-  height: 166px;
+  width: 40%;
+  height: auto;
   margin-right: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 @media only screen and (max-width: 767px) {
