@@ -144,6 +144,11 @@ html {
   margin-bottom: 15px;
 }
 
+::-webkit-input-placeholder {
+  font-style: italic;
+  font-color: grey;
+}
+
 #msg {
   height: 200px;
   border-color: #bbc;
